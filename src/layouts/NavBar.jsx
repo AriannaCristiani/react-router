@@ -5,13 +5,13 @@ export default function NavBar() {
         <nav className='navbar'>
             <ul className='nav-menu'>
                 <li>
-                    <NavLink to='/'>Home Page</NavLink>
+                    <NavLink to='/'>HOME PAGE</NavLink>
                 </li>
                 <li>
-                    <NavLink to='/about'>About Us</NavLink>
+                    <NavLink to='/about'>ABOUT US</NavLink>
                 </li>
                 <li>
-                    <NavLink to='/main'>Posts</NavLink>
+                    <NavLink to='/main'>POSTS</NavLink>
                 </li>
             </ul>
         </nav>
